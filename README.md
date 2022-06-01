@@ -14,4 +14,5 @@ This dataset features several citation statistics about fifteen sleeping beautie
 * *WoSReferences:* The number of references cited by every sleeping beauty and indexed in *Web of Science All Databases*.
 * *CitToRef:* The number of citations received by the references of every sleeping beauty.
 * *CitToRef2020+:* The number of citations received by the references of every sleeping beauty from 2020.
+
 The *Example* Excel Spreadsheet shows the evolution of the number of citations received by the references of *Professional and home-made face masks reduce exposure to respiratory infections among the general population*, one of the COVID-19-related sleeping beauties identified by Haghani and Varamini (2021).
