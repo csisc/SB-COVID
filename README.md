@@ -1,7 +1,7 @@
 # SB-COVID
 A citation analysis of fifteen sleeping beauties awakened by the COVID-19 pandemic
 
-**To cite the work:** Turki, H., Hadj Taieb, M. A., & Ben Aouicha, M. (2022). Awakening sleeping beauties influences the citation impact of their references. *Scientometrics* (forthcoming).
+**To cite the work:** Turki, H., Hadj Taieb, M. A., & Ben Aouicha, M. (2022). Awakening sleeping beauties influences the citation impact of their references. *Scientometrics*. doi:[10.1007/s11192-022-04501-8](https://link.springer.com/article/10.1007/s11192-022-04501-8).
 
 ## Description
 This dataset features several citation statistics about fifteen sleeping beauties awakened by the COVID-19 pandemic as featured in Haghani and Varamini ([2021](https://link.springer.com/article/10.1007/s11192-021-04036-4)). The statistical data is retrieved from *Web of Science All Databases* as of March 9, 2022 and includes these variables:
